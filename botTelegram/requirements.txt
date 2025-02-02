@@ -1,3 +1,10 @@
 python-telegram-bot
 requests
 python-dotenv
+python-telegram-bot
+asyncio
+pytz
+extract-msg
+vobject
+apscheduler
+nest_asyncio
